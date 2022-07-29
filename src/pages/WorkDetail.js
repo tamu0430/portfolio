@@ -3,7 +3,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import Header from "../component/Header";
-import Works from "../works.json"
+import Works from "../data/works.json"
 
 const WorkDetail = () => {
   const params = useParams()

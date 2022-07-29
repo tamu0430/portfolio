@@ -2,7 +2,7 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import Works from "../works.json"
+import Works from "../data/works.json"
 
 const WorksList = () => {
   const CreateList = () => {
